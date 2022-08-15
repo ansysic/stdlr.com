@@ -44,7 +44,7 @@ params:
         lastUpdated: 02 Jan 2006 15:04 MST
 
     sidebar:
-        emoji: 🆕
+        emoji: ✨
         subtitle: Ein Blog über Smarthome, Netzwerk und Zeug.
         avatar:
             enabled: true
