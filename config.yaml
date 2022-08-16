@@ -45,7 +45,7 @@ params:
 
     sidebar:
         emoji: ✨
-        subtitle: Ein Blog über Smarthome, Netzwerk und Zeug.
+        subtitle: Ein Blog über Smarthome, Netzwerk und Energie.
         avatar:
             enabled: true
             local: true
