@@ -9,7 +9,7 @@ aliases:
   - kontakt
 #license: CC BY-NC-ND
 #lastmod: '2022-08-16'
-image = 'computer-laptop.jpg'
+image: 'computer-laptop.jpg'
 menu:
     main: 
         weight: -90
