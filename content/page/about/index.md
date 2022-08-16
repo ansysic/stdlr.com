@@ -9,6 +9,7 @@ aliases:
   - kontakt
 #license: CC BY-NC-ND
 #lastmod: '2022-08-16'
+image = 'computer-laptop.jpg'
 menu:
     main: 
         weight: -90
@@ -25,3 +26,6 @@ Ust-Id: DE351558087
 
 ## Partner
 ![](Loxone_Logo-Partner_Registered.png)
+
+
+<a href="https://www.freepik.com/photos/accounting">Accounting photo created by rawpixel.com - www.freepik.com</a>
