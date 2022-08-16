@@ -11,6 +11,7 @@ categories = [
 ]
 series = ["Starlink Serie"]
 image = "box.jpg"
+draft: true
 +++
 
 Zwecks anstehendem Umzug nächsten Jahres muss eine Alternative zur langsame DSL Leitung her. Ich habe mir daher ein Starlink Terminal bestellt und teste es im alltäglichen Einsatz.
@@ -19,3 +20,5 @@ Zwecks anstehendem Umzug nächsten Jahres muss eine Alternative zur langsame DSL
 
 ![Provisorischer Aufbau in einem Garten](garten.jpg)
 ![Optionaler Ethernetadapter als Zubehör](ethernet.jpg)
+
+Der Aufbau gestaltet sich als einfach. Man nimmt alle Produkte aus der Packung, steckt den Router an 230 Volt und die Antenne an den Router.
