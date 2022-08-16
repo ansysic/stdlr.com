@@ -8,7 +8,7 @@ aliases:
   - über-mich
   - kontakt
 #license: CC BY-NC-ND
-lastmod: '2022-08-16'
+#lastmod: '2022-08-16'
 menu:
     main: 
         weight: -90
