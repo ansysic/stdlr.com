@@ -1,5 +1,5 @@
 +++
-author = "Hugo Authors"
+author = "Philipp"
 title = "Loxone Musterkoffer"
 date = "2022-08-15T20:13:33Z"
 description = "Der erste Schritt zur Erreichung des Silver Partner Status"
