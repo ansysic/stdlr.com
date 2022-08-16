@@ -1,7 +1,7 @@
 +++
 author = "Philipp"
 title = "Starlink im Test"
-date = "2022-08-15T20:13:33Z"
+date = "2022-08-16"
 description = "Ersteinrichtung und Speedtests"
 tags = [
     "starlink"
@@ -17,3 +17,5 @@ Zwecks anstehendem Umzug nächsten Jahres muss eine Alternative zur langsame DSL
 
 <!--more-->
 
+![Provisorischer Aufbau in einem Garten](garten.jpg)
+![Optionaler Ethernetadapter als Zubehör](ethernet.jpg)
