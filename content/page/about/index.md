@@ -21,11 +21,12 @@ menu:
 Philipp Stadler Smart IT\
 Neumarkter Str. 23\
 92342 Freystadt\
-<ps@stdlr.com>\
+<it@stdlr.com>\
 Ust-Id: DE351558087
 
 ## Partner
 ![](Loxone_Logo-Partner_Registered.png)
 
+## Kleingedrucktes
 
 <a href="https://www.freepik.com/photos/accounting">Accounting photo created by rawpixel.com - www.freepik.com</a>
