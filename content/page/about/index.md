@@ -15,10 +15,10 @@ menu:
             icon: user
 ---
 
-![](Loxone_Logo-Partner_Registered.png)
+<img src="Loxone_Logo-Partner_Registered.png" width="200" alt="Loxone Registred Partner Logo">
 
-Philipp Stadler
-Neumarkter Str. 23
+Philipp Stadler<br>
+Neumarkter Str. 23<br>
 92342 Freystadt
 
 Ust-ID: DE351558087
