@@ -16,7 +16,7 @@ menu:
 ---
 
 ## Kontakt
-Philipp Stadler\
+Philipp Stadler Smart IT\
 Neumarkter Str. 23\
 92342 Freystadt\
 <ps@stdlr.com>\
