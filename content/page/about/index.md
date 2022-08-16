@@ -1,7 +1,8 @@
 ---
 title: Über mich
 description: Informationen zum Gewerbe
-date: '2022-08-16'
+#date: '2022-08-16'
+readingTime: false
 aliases:
   - about
   - über-mich
