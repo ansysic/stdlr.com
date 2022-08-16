@@ -15,11 +15,12 @@ menu:
             icon: user
 ---
 
-![](Loxone_Logo-Partner_Registered.png =250x)
+![](Loxone_Logo-Partner_Registered.png)
 
 
-Philipp Stadler
-Neumarkter Str. 23
-92342 Freystadt
-
-Ust-ID: DE351558087
+## Kontakt
+Philipp Stadler\
+Neumarkter Str. 23\
+92342 Freystadt\
+<ps@stdlr.com>\
+Ust-Id: DE351558087
