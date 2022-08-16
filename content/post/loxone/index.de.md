@@ -2,7 +2,7 @@
 author = "Hugo Authors"
 title = "Loxone Musterkoffer"
 date = "2022-08-15T20:13:33Z"
-description = "Der Koffer ist eingetroffen und wird ausgepackt"
+description = "Der erste Schritt zur Erreichung des Silver Partner Status"
 tags = [
     "loxone"
 ]
