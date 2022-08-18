@@ -18,17 +18,20 @@ menu:
 ---
 ## Porfolio
 Smarthome als Loxone Partner
-* ![](Loxone_Logo-Partner_Registered.png)
+* ![|307x62](Loxone_Logo-Partner_Registered.png)
 * Beratung
 * Planung
 * Programmierung des Loxone Miniservers
 * Unterstützung für Bestandsinstallationen
+
 Vernetzung 
 * Professionelle WLAN Lösungen mit Unifi
 * Netzwerkplanung
+
 Microsoft 365
 * Exchange Online
 * Teams
+
 Energie
 * Balkonkraftwerke
 
