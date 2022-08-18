@@ -1,8 +1,8 @@
 +++
 author = "Philipp"
-title = "Starlink im Test"
+title = "Starlink Unboxing"
 date = "2022-08-16"
-description = "Ersteinrichtung und Speedtests"
+description = "Leider noch nicht im Dauereinsatz"
 tags = [
     "starlink"
 ]
