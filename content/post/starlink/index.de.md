@@ -11,7 +11,7 @@ categories = [
 ]
 series = ["Starlink Serie"]
 image = "box.jpg"
-draft: true
+draft = false
 +++
 
 Zwecks anstehendem Umzug nächsten Jahres muss eine Alternative zur langsame DSL Leitung her. Ich habe mir daher ein Starlink Terminal bestellt und teste es im alltäglichen Einsatz.
