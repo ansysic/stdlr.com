@@ -41,6 +41,5 @@ Neumarkter Str. 23\
 <it@stdlr.com>\
 Ust-Id: DE351558087
 
-## Kleingedrucktes
 [![](Loxone_Logo-Partner_Registered.png)](https://www.loxone.com/dede/)
 <a href="https://www.freepik.com/photos/accounting">Accounting photo created by rawpixel.com - www.freepik.com</a>
