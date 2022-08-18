@@ -17,18 +17,19 @@ menu:
             icon: user
 ---
 ## Porfolio
-### Smarthome als Loxone Partner
+Smarthome als Loxone Partner
+* ![](Loxone_Logo-Partner_Registered.png)
 * Beratung
 * Planung
 * Programmierung des Loxone Miniservers
 * Unterstützung für Bestandsinstallationen
-### Vernetzung 
+Vernetzung 
 * Professionelle WLAN Lösungen mit Unifi
 * Netzwerkplanung
-### Microsoft 365
+Microsoft 365
 * Exchange Online
 * Teams
-### Energie
+Energie
 * Balkonkraftwerke
 
 ## Kontakt
@@ -37,9 +38,6 @@ Neumarkter Str. 23\
 92342 Freystadt\
 <it@stdlr.com>\
 Ust-Id: DE351558087
-
-## Partner
-![](Loxone_Logo-Partner_Registered.png)
 
 ## Kleingedrucktes
 
