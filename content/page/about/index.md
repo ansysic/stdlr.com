@@ -16,6 +16,20 @@ menu:
         params:
             icon: user
 ---
+## Porfolio
+### Smarthome als Loxone Partner
+* Beratung
+* Planung
+* Programmierung des Loxone Miniservers
+* Unterstützung für Bestandsinstallationen
+### Vernetzung 
+* Professionelle WLAN Lösungen mit Unifi
+* Netzwerkplanung
+### Microsoft 365
+* Exchange Online
+* Teams
+### Energie
+* Balkonkraftwerke
 
 ## Kontakt
 Philipp Stadler Smart IT\
