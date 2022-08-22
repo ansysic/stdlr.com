@@ -11,7 +11,7 @@ categories = [
 ]
 #series = ["Loxone Serie"]
 #aliases = ["migrate-from-jekyl"]
-image = "robot walking on water.png"
+image = "tilt-shift.png"
 +++
 
 ## Twitter Thread
@@ -22,7 +22,8 @@ image = "robot walking on water.png"
 <!--more-->
 
 ## Vier Kreationen von mir
-![bathtub filled with oreos](oreos.png) ![tilt shift photo of a city](tilt-shift.png)
+![bathtub filled with oreos](oreos.png) ![robot walking on water](robot.png)
+
 ![watercolor painting of a zebra in snow](zebra.png) ![watercolor painting](watercolor.png)
 
 
