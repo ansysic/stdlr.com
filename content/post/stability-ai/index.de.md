@@ -14,13 +14,16 @@ categories = [
 image = "robot walking on water.png"
 +++
 
+## Twitter Thread
+
 {{< twitter_simple user="EMostaque" id="1561777122082824192" >}}
 {{< twitter_simple user="EMostaque" id="1561777997748862976" >}}
 
 <!--more-->
-Vier Kreationen von mir:
-![bathtub filled with oreos](bathtub filled with oreos.png) ![tilt shift photo of a city](tilt shift photo of a city.png)
-![watercolor painting of a zebra in snow](watercolor painting of a zebra in snow.png) ![watercolor painting](watercolor painting.png)
+
+## Vier Kreationen von mir
+![bathtub filled with oreos](oreos.png) ![tilt shift photo of a city](tilt-shift.png)
+![watercolor painting of a zebra in snow](zebra.png) ![watercolor painting](watercolor.png)
 
 
 Wer selber mit dem Generieren loslegen möchte, kann das nach Anmeldung unter https://beta.dreamstudio.ai/dream tun.
