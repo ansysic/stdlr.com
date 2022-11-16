@@ -27,7 +27,7 @@ body {
 }
 
 .margin-7 {
-    margin-top: -7rem;
+    margin-top: -4rem;
 }
 
 .address {
@@ -39,7 +39,7 @@ body {
 }
 
 .mail-icon {
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 .gradient-1 {
@@ -74,14 +74,13 @@ body {
 }
 
 .text-deco1 {
-    font-size: 9rem;
+    font-size: 5rem;
     font-weight: 900;
 
 }
 
 .text-deco2 {
-    font-size: 9rem;
+    font-size: 5rem;
     font-weight: 900;
     font-stretch: semi-condensed;
-    margin-bottom: -2rem;
 }
