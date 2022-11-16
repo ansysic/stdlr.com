@@ -22,7 +22,7 @@ body {
 
 body {
     background: rgb(56, 15, 129);
-    background: radial-gradient(circle, rgba(56, 15, 129, 1) 12%, rgba(17, 1, 1, 1) 100%);
+    background-image: radial-gradient(circle, #000e23, #060a1c, #070615, #05020d, #010002);
     color: whitesmoke;
 }
 
@@ -35,10 +35,11 @@ body {
     font-weight: lighter;
     font-size: x-large;
     font-family: 'Mona Sans';
+    color: gray;
 }
 
 .mail-icon {
-    font-size: xx-large;
+    font-size: 3rem;
 }
 
 .gradient-1 {
@@ -59,16 +60,28 @@ body {
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent;
+}
+
+.gradient-3 {
+    background-image: linear-gradient(to right bottom, #dae9ff, #b3d1fe, #8bbafc, #5ea2f9, #008bf6);
+    background-size: 100%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
 
 }
 
 .text-deco1 {
     font-size: 9rem;
     font-weight: 900;
+
 }
 
 .text-deco2 {
     font-size: 9rem;
     font-weight: 900;
     font-stretch: semi-condensed;
+    margin-bottom: -2rem;
 }
