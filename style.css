@@ -27,7 +27,7 @@ body {
 }
 
 .margin-7 {
-    margin-top: -4rem;
+    margin-top: -3rem;
 }
 
 .address {
@@ -35,7 +35,6 @@ body {
     font-weight: lighter;
     font-size: x-large;
     font-family: 'Mona Sans';
-    color: gray;
 }
 
 .mail-icon {
@@ -63,7 +62,7 @@ body {
 }
 
 .gradient-3 {
-    background-image: linear-gradient(to right bottom, #dae9ff, #b3d1fe, #8bbafc, #5ea2f9, #008bf6);
+    background-image: linear-gradient(to right bottom, #0c75e7, #009ef4, #00b8c2, #00c86e, #accb15);
     background-size: 100%;
     background-clip: text;
     -webkit-background-clip: text;
@@ -74,13 +73,13 @@ body {
 }
 
 .text-deco1 {
-    font-size: 5rem;
+    font-size: 4rem;
     font-weight: 900;
 
 }
 
 .text-deco2 {
-    font-size: 5rem;
+    font-size: 4rem;
     font-weight: 900;
     font-stretch: semi-condensed;
 }
