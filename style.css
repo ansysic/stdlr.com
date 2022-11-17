@@ -17,12 +17,12 @@
 }
 
 body {
-    font-family: 'Hubot Sans';
+    font-family: 'Mona Sans';
 }
 
 body {
     background: rgb(56, 15, 129);
-    background-image: radial-gradient(circle, #000e23, #060a1c, #070615, #05020d, #010002);
+    background-image: radial-gradient(circle, #321b66, #281756, #1f1245, #170d36, #120327);
     color: whitesmoke;
 }
 
@@ -62,7 +62,7 @@ body {
 }
 
 .gradient-3 {
-    background-image: linear-gradient(to right bottom, #0c75e7, #009ef4, #00b8c2, #00c86e, #accb15);
+    background-image: linear-gradient(to right top, #204787, #42559f, #6362b6, #856fcc, #a87ce1);
     background-size: 100%;
     background-clip: text;
     -webkit-background-clip: text;
@@ -81,5 +81,5 @@ body {
 .text-deco2 {
     font-size: 4rem;
     font-weight: 900;
-    font-stretch: semi-condensed;
+    /* font-stretch: semi-condensed; */
 }
