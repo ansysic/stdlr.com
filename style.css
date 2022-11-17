@@ -62,8 +62,8 @@ body {
 }
 
 .gradient-3 {
-    background-image: linear-gradient(to right top, #204787, #42559f, #6362b6, #856fcc, #a87ce1);
-    background-size: 100%;
+    background-image: linear-gradient(to right bottom, #65de43, #72cf53, #7bc160, #81b26c, #85a476);
+        background-size: 100%;
     background-clip: text;
     -webkit-background-clip: text;
     -moz-background-clip: text;
