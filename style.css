@@ -17,12 +17,12 @@
 }
 
 body {
-    font-family: 'Mona Sans';
+    font-family: 'Hubot Sans';
 }
 
 body {
     background: rgb(56, 15, 129);
-    background-image: radial-gradient(circle, #321b66, #281756, #1f1245, #170d36, #120327);
+    background-image: radial-gradient(circle, #5a1c4a, #481645, #36113e, #240c36, #14032e);
     color: whitesmoke;
 }
 
@@ -35,10 +35,12 @@ body {
     font-weight: lighter;
     font-size: x-large;
     font-family: 'Mona Sans';
+    color: #F7B054;
 }
 
 .mail-icon {
     font-size: 2rem;
+    color: #d7d3e3;
 }
 
 .gradient-1 {
@@ -63,7 +65,7 @@ body {
 
 .gradient-3 {
     background-image: linear-gradient(to right bottom, #65de43, #72cf53, #7bc160, #81b26c, #85a476);
-        background-size: 100%;
+    background-size: 100%;
     background-clip: text;
     -webkit-background-clip: text;
     -moz-background-clip: text;
