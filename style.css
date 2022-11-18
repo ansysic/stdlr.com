@@ -3,15 +3,22 @@
 }
 
 body {
-    background-color: #151b2c;
+    background-color: rgb(21, 27, 44);
     color: whitesmoke
 }
 
 .navbar-blur {
-    backdrop-filter: blur(2px);
-    background-color: rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(7px);
+    background-color: rgba(14, 18, 29, 0.8);
 }
 
-.img-shadow {
-    filter: drop-shadow(10px 10px 20px rgb(6, 7, 12));
-}
+/* .gradient-heading {
+    background-image: linear-gradient(to right top, #00c1f0, #00d4e7, #00e3bd, #2aeb7a, #a8eb12);
+    background-size: 100%;
+    background-size: 100%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+} */
