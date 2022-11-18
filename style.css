@@ -16,6 +16,10 @@ p {
     background-color: rgba(14, 18, 29, 0.8);
 }
 
+.color-imprint {
+    color: gray;
+}
+
 /* .gradient-heading {
     background-image: linear-gradient(to right top, #00c1f0, #00d4e7, #00e3bd, #2aeb7a, #a8eb12);
     background-size: 100%;
@@ -26,10 +30,3 @@ p {
     -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent;
 } */
-
-
-hr {
-    background-color: wheat;
-    border-width: 0px;
-    height: 1px;
-}
