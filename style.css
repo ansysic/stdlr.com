@@ -1,87 +1,13 @@
-@font-face {
-    font-family: 'Mona Sans';
-    src:
-        url('font/Mona-Sans.woff2') format('woff2 supports variations'),
-        url('font/Mona-Sans.woff2') format('woff2-variations');
-    font-weight: 200 900;
-    font-stretch: 75% 125%;
-}
-
-@font-face {
-    font-family: 'Hubot Sans';
-    src:
-        url('font/Hubot-Sans.woff2') format('woff2 supports variations'),
-        url('font/Hubot-Sans.woff2') format('woff2-variations');
-    font-weight: 200 900;
-    font-stretch: 75% 125%;
+.font-bespoke {
+    font-family: BespokeSans-Variable;
 }
 
 body {
-    font-family: 'Hubot Sans';
+    background-color: #151b2c;
+    color: whitesmoke
 }
 
-body {
-    background: rgb(56, 15, 129);
-    background-image: radial-gradient(circle, #5a1c4a, #481645, #36113e, #240c36, #14032e);
-    color: whitesmoke;
-}
-
-.margin-7 {
-    margin-top: -3rem;
-}
-
-.address {
-    font-stretch: condensed;
-    font-weight: lighter;
-    font-size: x-large;
-    font-family: 'Mona Sans';
-    color: #F7B054;
-}
-
-.mail-icon {
-    font-size: 2rem;
-    color: #d7d3e3;
-}
-
-.gradient-1 {
-    background-image: linear-gradient(to right bottom, #ffffff, #e8f5ff, #c5eff3, #b4e6d0, #c6d6a1);
-    background-size: 100%;
-    background-clip: text;
-    -webkit-background-clip: text;
-    -moz-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    -moz-text-fill-color: transparent;
-}
-
-.gradient-2 {
-    background-image: linear-gradient(to right bottom, #a9e915, #f4b408, #ff8257, #eb698b, #aa69a4);
-    background-size: 100%;
-    background-clip: text;
-    -webkit-background-clip: text;
-    -moz-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    -moz-text-fill-color: transparent;
-}
-
-.gradient-3 {
-    background-image: linear-gradient(to right bottom, #65de43, #72cf53, #7bc160, #81b26c, #85a476);
-    background-size: 100%;
-    background-clip: text;
-    -webkit-background-clip: text;
-    -moz-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    -moz-text-fill-color: transparent;
-
-}
-
-.text-deco1 {
-    font-size: 4rem;
-    font-weight: 900;
-
-}
-
-.text-deco2 {
-    font-size: 4rem;
-    font-weight: 900;
-    /* font-stretch: semi-condensed; */
+.navbar-blur {
+    backdrop-filter: blur(2px);
+    background-color: rgba(0, 0, 0, 0.3);
 }
