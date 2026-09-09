@@ -19,8 +19,11 @@ body { margin: 0; }
 main {
   min-height: 100vh;
   min-height: 100svh;
-  display: grid;
-  place-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
   padding: 24px;
 }
 
@@ -29,9 +32,15 @@ img {
   width: auto;
   height: auto;
   max-width: min(100%, 720px);
-  max-height: calc(100vh - 48px);
-  max-height: calc(100svh - 48px);
+  max-height: calc(100vh - 88px);
+  max-height: calc(100svh - 88px);
   object-fit: contain;
+}
+p {
+  margin: 0;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
 }
   </style>
 </head>
@@ -40,6 +49,7 @@ img {
     <img src="./public/nothing-to-see-here.jpg" width="1072" height="604"
       alt="Leslie Nielsen waving people along in front of an explosion. Move along. Nothing to see here."
       fetchpriority="high">
+    <p lang="de">Hallo Nico :P</p>
   </main>
 </body>
 </html>
